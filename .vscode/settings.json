@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"__functional_03": "c",
+		"memory_resource": "c",
+		"functional": "c",
+		"memory": "c",
+		"header.h": "c",
+		"stdlib.h": "c",
+		"stdio.h": "c",
+		"libft.h": "c",
+		"unistd.h": "c",
+		"stb_image.h": "c",
+		"string.h": "c",
+		"fcntl.h": "c",
+		"stdint.h": "c",
+		"math.h": "c",
+		"mlx.h": "c"
+	}
+}
