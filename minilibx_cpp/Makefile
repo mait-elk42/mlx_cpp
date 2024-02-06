@@ -1,4 +1,4 @@
-SRCS=mlx_cpp_api.c
+SRCS=srcs/mlx_cpp_api.c
 OBJS=$(SRCS:.c=.o)
 LIBNAME=mlx_cpp.a
 NAME=mlx_cpp.a
